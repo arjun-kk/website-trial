@@ -2121,6 +2121,10 @@ input, select, textarea {
 							text-align: center;
 						}
 
+						#main > .panel.intro > p {
+							text-align: center;
+						}
+
 				}
 
 				@media screen and (max-width: 736px) {
@@ -2136,6 +2140,10 @@ input, select, textarea {
 						#main > .panel.intro header p {
 							font-size: 1em;
 							margin: 0.25em 0 0 0;
+						}
+
+						#main > .panel.intro > p {
+							padding: 0 2em;
 						}
 
 				}
